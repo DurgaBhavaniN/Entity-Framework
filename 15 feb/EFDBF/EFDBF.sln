@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBF", "EFDBF.csproj", "{496C5861-361F-4EB6-95B6-416F6056968A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBF_Client", "..\EFDBF_Client\EFDBF_Client.csproj", "{178C1F8A-EE8C-47E6-9BEE-5AB7DD7E1472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496C5861-361F-4EB6-95B6-416F6056968A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496C5861-361F-4EB6-95B6-416F6056968A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496C5861-361F-4EB6-95B6-416F6056968A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496C5861-361F-4EB6-95B6-416F6056968A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178C1F8A-EE8C-47E6-9BEE-5AB7DD7E1472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178C1F8A-EE8C-47E6-9BEE-5AB7DD7E1472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178C1F8A-EE8C-47E6-9BEE-5AB7DD7E1472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178C1F8A-EE8C-47E6-9BEE-5AB7DD7E1472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDA7462-ADA4-43D6-AE7E-E815275AB4EC}
+	EndGlobalSection
+EndGlobal

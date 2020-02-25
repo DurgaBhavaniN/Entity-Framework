@@ -1,0 +1,6 @@
+D:\Durga\Sql Server\13 feb\ProductADO\bin\Debug\ProductADO.exe.config
+D:\Durga\Sql Server\13 feb\ProductADO\bin\Debug\ProductADO.exe
+D:\Durga\Sql Server\13 feb\ProductADO\bin\Debug\ProductADO.pdb
+D:\Durga\Sql Server\13 feb\ProductADO\obj\Debug\ProductADO.csprojAssemblyReference.cache
+D:\Durga\Sql Server\13 feb\ProductADO\obj\Debug\ProductADO.exe
+D:\Durga\Sql Server\13 feb\ProductADO\obj\Debug\ProductADO.pdb

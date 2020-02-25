@@ -1,0 +1,11 @@
+D:\Durga\Sql Server\14 feb\EF_project\bin\Debug\netcoreapp3.1\EF_project.exe
+D:\Durga\Sql Server\14 feb\EF_project\bin\Debug\netcoreapp3.1\EF_project.deps.json
+D:\Durga\Sql Server\14 feb\EF_project\bin\Debug\netcoreapp3.1\EF_project.runtimeconfig.json
+D:\Durga\Sql Server\14 feb\EF_project\bin\Debug\netcoreapp3.1\EF_project.runtimeconfig.dev.json
+D:\Durga\Sql Server\14 feb\EF_project\bin\Debug\netcoreapp3.1\EF_project.dll
+D:\Durga\Sql Server\14 feb\EF_project\bin\Debug\netcoreapp3.1\EF_project.pdb
+D:\Durga\Sql Server\14 feb\EF_project\obj\Debug\netcoreapp3.1\EF_project.csprojAssemblyReference.cache
+D:\Durga\Sql Server\14 feb\EF_project\obj\Debug\netcoreapp3.1\EF_project.AssemblyInfoInputs.cache
+D:\Durga\Sql Server\14 feb\EF_project\obj\Debug\netcoreapp3.1\EF_project.AssemblyInfo.cs
+D:\Durga\Sql Server\14 feb\EF_project\obj\Debug\netcoreapp3.1\EF_project.dll
+D:\Durga\Sql Server\14 feb\EF_project\obj\Debug\netcoreapp3.1\EF_project.pdb

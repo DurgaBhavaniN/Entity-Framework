@@ -1,0 +1,10 @@
+D:\Durga\Sql Server\15 feb\EFDBF\bin\Debug\netcoreapp3.1\EFDBF.deps.json
+D:\Durga\Sql Server\15 feb\EFDBF\bin\Debug\netcoreapp3.1\EFDBF.dll
+D:\Durga\Sql Server\15 feb\EFDBF\obj\Debug\netcoreapp3.1\EFDBF.csprojAssemblyReference.cache
+D:\Durga\Sql Server\15 feb\EFDBF\obj\Debug\netcoreapp3.1\EFDBF.AssemblyInfoInputs.cache
+D:\Durga\Sql Server\15 feb\EFDBF\obj\Debug\netcoreapp3.1\EFDBF.AssemblyInfo.cs
+D:\Durga\Sql Server\15 feb\EFDBF\bin\Debug\netcoreapp3.1\EFDBF.runtimeconfig.json
+D:\Durga\Sql Server\15 feb\EFDBF\bin\Debug\netcoreapp3.1\EFDBF.runtimeconfig.dev.json
+D:\Durga\Sql Server\15 feb\EFDBF\bin\Debug\netcoreapp3.1\EFDBF.pdb
+D:\Durga\Sql Server\15 feb\EFDBF\obj\Debug\netcoreapp3.1\EFDBF.dll
+D:\Durga\Sql Server\15 feb\EFDBF\obj\Debug\netcoreapp3.1\EFDBF.pdb

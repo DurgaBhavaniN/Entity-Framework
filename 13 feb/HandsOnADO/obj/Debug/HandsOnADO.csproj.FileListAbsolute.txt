@@ -1,0 +1,6 @@
+D:\Durga\Sql Server\13 feb\HandsOnADO\bin\Debug\HandsOnADO.exe.config
+D:\Durga\Sql Server\13 feb\HandsOnADO\bin\Debug\HandsOnADO.exe
+D:\Durga\Sql Server\13 feb\HandsOnADO\bin\Debug\HandsOnADO.pdb
+D:\Durga\Sql Server\13 feb\HandsOnADO\obj\Debug\HandsOnADO.csprojAssemblyReference.cache
+D:\Durga\Sql Server\13 feb\HandsOnADO\obj\Debug\HandsOnADO.exe
+D:\Durga\Sql Server\13 feb\HandsOnADO\obj\Debug\HandsOnADO.pdb

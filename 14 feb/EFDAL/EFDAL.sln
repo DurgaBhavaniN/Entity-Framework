@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDAL", "EFDAL.csproj", "{31270D8B-828C-45AC-88C0-3422DBD1E89B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS_Client", "..\EMS_Client\EMS_Client.csproj", "{7C196EF5-D37A-4441-90A3-70397A23DDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31270D8B-828C-45AC-88C0-3422DBD1E89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31270D8B-828C-45AC-88C0-3422DBD1E89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31270D8B-828C-45AC-88C0-3422DBD1E89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31270D8B-828C-45AC-88C0-3422DBD1E89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C196EF5-D37A-4441-90A3-70397A23DDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C196EF5-D37A-4441-90A3-70397A23DDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C196EF5-D37A-4441-90A3-70397A23DDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C196EF5-D37A-4441-90A3-70397A23DDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84B45F2-2C60-4616-9AEC-479624E04104}
+	EndGlobalSection
+EndGlobal
